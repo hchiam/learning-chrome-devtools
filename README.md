@@ -10,6 +10,8 @@ Good as variable watch substitute when debugging live.
 - Ctrl+Shift+P
 - Search "create live expression"
 
+For example: `document.activeElement` with automatically show the currently-focused element.
+
 ## [Print preview](https://developers.google.com/web/tools/chrome-devtools/css/print-preview)
 
 - Ctrl+Shift+i

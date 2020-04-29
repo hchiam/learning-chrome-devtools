@@ -22,3 +22,11 @@ Good as variable watch substitute when debugging live.
 - Ctrl+Shift+i
 - Ctrl+Shift+P
 - Search "coverage" (but watch out: it can be slow to open files to show you which lines got (un)used)
+
+## [Access local servers with port forwarding](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server)
+
+Connect a localhost port on your laptop to your cellphone!
+
+- Enable developer options on an Android mobile device: <https://developer.android.com/studio/debug/dev-options>
+- Set up remote debugging on an Android mobile device: <https://developers.google.com/web/tools/chrome-devtools/remote-debugging>
+- Set up access to local servers: <https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server>

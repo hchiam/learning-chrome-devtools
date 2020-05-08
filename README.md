@@ -27,7 +27,7 @@ For example: `document.activeElement` with automatically show the currently-focu
 
 ## [Access local servers with port forwarding](https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server)
 
-Connect a localhost port on your laptop to your cellphone!
+Connect a localhost port on your laptop to your cellphone! Laptop Chrome -> mobile Chrome (or Firefox!).
 
 - Enable developer options on an Android mobile device: <https://developer.android.com/studio/debug/dev-options>
 - Set up remote debugging on an Android mobile device: <https://developers.google.com/web/tools/chrome-devtools/remote-debugging>

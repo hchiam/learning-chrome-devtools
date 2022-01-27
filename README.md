@@ -32,3 +32,7 @@ Connect a localhost port on your laptop to your cellphone! Laptop Chrome -> mobi
 - Enable developer options on an Android mobile device: <https://developer.android.com/studio/debug/dev-options>
 - Set up remote debugging on an Android mobile device: <https://developers.google.com/web/tools/chrome-devtools/remote-debugging>
 - Set up access to local servers: <https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server>
+
+## [Find performance bottlenecks](https://developer.chrome.com/docs/devtools/evaluate-performance/#find_the_bottleneck)
+
+Performance tab -> record and stop -> look for full CPU levels or dropped frames -> see Main tab for long rectangles (long = slow. directly above = caused lower rectangles) -> see Summary tab for link to initiator or source function.
